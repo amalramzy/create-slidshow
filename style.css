@@ -1,0 +1,19 @@
+img{
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin: 50px auto;/*center*/
+    border: 1px solid #f50;
+    padding: 5px;
+}
+
+p{
+    width: 60%;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    margin: auto;/*center*/
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
